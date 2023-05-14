@@ -1,0 +1,26 @@
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.exe.config
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.exe
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.pdb
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.AssemblyReference.cache
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Form1.resources
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Insert.resources
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Properties.Resources.resources
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Update.resources
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.GenerateResource.cache
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.CoreCompileInputs.cache
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.exe
+C:\Users\Ostali\Desktop\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.pdb
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.exe.config
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.exe
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\bin\Debug\DrugiDeoDusanBogosavljev.pdb
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.AssemblyReference.cache
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Form1.resources
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Insert.resources
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Properties.Resources.resources
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.Update.resources
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.GenerateResource.cache
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.exe
+C:\Users\Dusan\Downloads\programiranje (1)\programiranje\solDrugiDeoDusanBogosavljev\DrugiDeoDusanBogosavljev\obj\Debug\DrugiDeoDusanBogosavljev.pdb
